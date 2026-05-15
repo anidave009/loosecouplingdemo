@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class LoosecouplingdemoApplication {
 
     public static void main(String[] args) {
+
         SpringApplication.run(LoosecouplingdemoApplication.class, args);
     }
 
